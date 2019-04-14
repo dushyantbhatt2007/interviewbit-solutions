@@ -43,7 +43,7 @@ namespace Programming.LinkedLists
             }
             return A;
         }
-        public static void Main(string[] args)
+        /*public static void Main(string[] args)
         {
             ListNode A = new ListNode(1);
             A.next = new ListNode(2);
@@ -53,7 +53,7 @@ namespace Programming.LinkedLists
             A.next.next.next.next.next = new ListNode(3);
             RemoveDuplicatesFromSortedList r = new RemoveDuplicatesFromSortedList();
             var result = r.RemoveDuplicates(A);
-        }
+        }*/
     }
     
 }
