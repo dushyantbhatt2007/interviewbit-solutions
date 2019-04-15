@@ -48,6 +48,7 @@
     <Compile Include="Graph\LevelOrderGraph.cs" />
     <Compile Include="Graph\DFS.cs" />
     <Compile Include="Graph\LevelOrder.cs" />
+    <Compile Include="Graph\Smallest Sequence With Given Primes.cs" />
     <Compile Include="LinkedLists\RemoveDuplicatesFromSortedList.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
