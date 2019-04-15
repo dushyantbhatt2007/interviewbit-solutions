@@ -28,13 +28,6 @@ class TreeNode {
     public TreeNode(int x) {this.val = x; this.left = this.right = null;}
 }
 
-class TreeNodeExt
-{
-    public TreeNode node;
-    public int level;
-    public TreeNodeExt(int level,TreeNode node) { this.level = level;this.node = node; }
-}
-
 class Solution
 {
    

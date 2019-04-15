@@ -49,10 +49,10 @@ namespace Programming.Graph
             return res;
 
         }
-        public static void Main(string[] args)
+        /*public static void Main(string[] args)
         {
             Smallest_Sequence_With_Given_Primes s = new Smallest_Sequence_With_Given_Primes();
             var res = s.solve(2, 3, 5, 5);
-        }
+        }*/
     }
 }
