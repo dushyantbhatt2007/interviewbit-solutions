@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="Graph\AdjacencyList.cs" />
     <Compile Include="Graph\BFS.cs" />
+    <Compile Include="Graph\LevelOrderGraph.cs" />
     <Compile Include="Graph\DFS.cs" />
     <Compile Include="Graph\LevelOrder.cs" />
     <Compile Include="LinkedLists\RemoveDuplicatesFromSortedList.cs" />

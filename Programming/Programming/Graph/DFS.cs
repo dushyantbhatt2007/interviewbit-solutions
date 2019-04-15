@@ -25,7 +25,7 @@ namespace Programming.Graph
                 }
             }
         }
-        public static void Main(string[] args)
+        /*public static void Main(string[] args)
         {
             int V = 5; // Number of vertices in graph  
 
@@ -38,6 +38,6 @@ namespace Programming.Graph
             graph.addEdge(1, 4, 0);
             DFS d = new DFS();
             d.DFSAlgo(graph, 0);
-        }
+        }*/
     }
 }
