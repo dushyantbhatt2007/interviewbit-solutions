@@ -31,7 +31,7 @@ namespace Programming.Tree
             }
             return res;
         }
-        public static void Main(string[] args)
+       /* public static void Main(string[] args)
         {
             InOrder i = new InOrder();
             TreeNode A = new TreeNode(10);
@@ -40,6 +40,6 @@ namespace Programming.Tree
             A.right.left = new TreeNode(8);
             A.left.left = new TreeNode(4);
             var result = i.InOrderTraversal(A);
-        }
+        }*/
     }
 }

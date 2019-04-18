@@ -52,6 +52,7 @@
     <Compile Include="LinkedLists\RemoveDuplicatesFromSortedList.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Tree\InOrder.cs" />
+    <Compile Include="Tree\PostOrder.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
