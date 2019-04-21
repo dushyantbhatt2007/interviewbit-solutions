@@ -37,7 +37,7 @@ namespace Programming.Tree
                 }
             }
         }
-        public static void Main(string[] args)
+        /*public static void Main(string[] args)
         {
             PostOrder p = new PostOrder();
             TreeNode A = new TreeNode(10);
@@ -46,6 +46,6 @@ namespace Programming.Tree
             A.right.left = new TreeNode(8);
             A.left.left = new TreeNode(4);
             var result = p.PostOrderTraversal(A);
-        }
+        }*/
     }
 }
