@@ -38,7 +38,7 @@ namespace Programming.Tree
 
             return res;
         }
-        public static void Main(string[] args)
+        /*public static void Main(string[] args)
         {
             PreOrder p = new PreOrder();
             TreeNode A = new TreeNode(10);
@@ -47,6 +47,6 @@ namespace Programming.Tree
             A.right.left = new TreeNode(8);
             A.left.left = new TreeNode(4);
             var result = p.PreOrderTraversal(A);
-        }
+        }*/
     }
 }
