@@ -53,7 +53,7 @@ namespace Programming.Tree
             }
             return 0;
         }
-        public static void Main(string[] args)
+        /*public static void Main(string[] args)
         {
             PathSum p = new PathSum();
             TreeNode A = new TreeNode(5);
@@ -66,6 +66,6 @@ namespace Programming.Tree
             A.left.left.left = new TreeNode(7);
             A.left.left.right = new TreeNode(2);
             var result = p.hasPathSum(A, 22);
-        }
+        }*/
     }
 }

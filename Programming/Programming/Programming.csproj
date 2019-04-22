@@ -55,6 +55,7 @@
     <Compile Include="Tree\PathSum.cs" />
     <Compile Include="Tree\PostOrder.cs" />
     <Compile Include="Tree\PreOrder.cs" />
+    <Compile Include="Tree\RootToLeafPathWithSum.cs" />
     <Compile Include="Tree\ZigZagLevelOrderTraversal.cs" />
   </ItemGroup>
   <ItemGroup>
