@@ -49,7 +49,7 @@ namespace Programming.Tree
             PathSum1(A.right, sum - A.val);
             temp.RemoveAt(temp.Count - 1);
         }
-        public static void Main(string[] args)
+        /*public static void Main(string[] args)
         {
             RootToLeafPathWithSum r = new RootToLeafPathWithSum();
             TreeNode A = new TreeNode(5);
@@ -63,6 +63,6 @@ namespace Programming.Tree
             A.left.left.left = new TreeNode(7);
             A.left.left.right = new TreeNode(2);
             var result = r.PathSum(A, 22);
-        }
+        }*/
     }
 }
