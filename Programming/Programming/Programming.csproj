@@ -53,10 +53,12 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Tree\InOrder.cs" />
     <Compile Include="Tree\MaxDepthOfBinaryTree.cs" />
+    <Compile Include="Tree\MinDepthOfBinaryTree.cs" />
     <Compile Include="Tree\PathSum.cs" />
     <Compile Include="Tree\PostOrder.cs" />
     <Compile Include="Tree\PreOrder.cs" />
     <Compile Include="Tree\RootToLeafPathWithSum.cs" />
+    <Compile Include="Tree\SumRootToLeafNumbers.cs" />
     <Compile Include="Tree\ZigZagLevelOrderTraversal.cs" />
   </ItemGroup>
   <ItemGroup>
