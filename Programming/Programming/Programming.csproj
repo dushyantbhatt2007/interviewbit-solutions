@@ -51,6 +51,7 @@
     <Compile Include="Graph\Smallest Sequence With Given Primes.cs" />
     <Compile Include="LinkedLists\PalindromeList.cs" />
     <Compile Include="LinkedLists\RemoveDuplicatesFromSortedList.cs" />
+    <Compile Include="LinkedLists\RemoveNthNodeFromListEnd.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Stacks and Queues\EvaluateExpression.cs" />
     <Compile Include="Stacks and Queues\LargestRectangleInHistogram.cs" />
