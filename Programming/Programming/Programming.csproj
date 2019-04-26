@@ -51,6 +51,7 @@
     <Compile Include="Graph\Smallest Sequence With Given Primes.cs" />
     <Compile Include="LinkedLists\RemoveDuplicatesFromSortedList.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Tree\BinaryTreeFromInorderAndPostorder.cs" />
     <Compile Include="Tree\FlattenBinaryTreeToLinkedList.cs" />
     <Compile Include="Tree\InOrder.cs" />
     <Compile Include="Tree\LeastCommonAncestor.cs" />
