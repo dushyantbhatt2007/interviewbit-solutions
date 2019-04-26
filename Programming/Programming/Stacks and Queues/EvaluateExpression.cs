@@ -55,10 +55,10 @@ namespace Programming.Stacks_and_Queues
             }
             return stack.Peek();
         }
-        public static void Main(string[] args)
+        /*public static void Main(string[] args)
         {
             EvaluateExpression obj = new EvaluateExpression();
             var result = obj.EvalExpression(new List<string> { "2", "1", "+", "3", "*" });
-        }
+        }*/
     }
 }
