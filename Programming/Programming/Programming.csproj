@@ -53,6 +53,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Stacks and Queues\EvaluateExpression.cs" />
     <Compile Include="Stacks and Queues\LargestRectangleInHistogram.cs" />
+    <Compile Include="Stacks and Queues\MinStack.cs" />
     <Compile Include="Stacks and Queues\NearestSmallerElement.cs" />
     <Compile Include="Stacks and Queues\RainWaterTrapped.cs" />
     <Compile Include="Stacks and Queues\RedundantBraces.cs" />
