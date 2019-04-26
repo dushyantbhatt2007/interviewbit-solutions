@@ -38,13 +38,13 @@ namespace Programming.Tree
             DFS(A.left,tmp);
             DFS(A.right, tmp);
         }
-        public static void Main(string[] args)
+        /*public static void Main(string[] args)
         {
             SumRootToLeafNumbers m = new SumRootToLeafNumbers();
             TreeNode A = new TreeNode(1);
             A.left = new TreeNode(2);
             A.right = new TreeNode(3);
             var result = m.sumNumbers(A);
-        }
+        }*/
     }
 }
