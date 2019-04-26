@@ -51,6 +51,8 @@
     <Compile Include="Graph\DFS.cs" />
     <Compile Include="Graph\LevelOrder.cs" />
     <Compile Include="Graph\Smallest Sequence With Given Primes.cs" />
+    <Compile Include="Heaps and Maps\MaxHeap.cs" />
+    <Compile Include="Heaps and Maps\MinHeap.cs" />
     <Compile Include="LinkedLists\ListCycle.cs" />
     <Compile Include="LinkedLists\PalindromeList.cs" />
     <Compile Include="LinkedLists\RemoveDuplicatesFromSortedList.cs" />
