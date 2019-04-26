@@ -12,11 +12,6 @@ For example,
 
 List 1-->2-->1 is a palindrome.
 List 1-->2-->3 is not a palindrome.*/
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Programming.LinkedLists
 {

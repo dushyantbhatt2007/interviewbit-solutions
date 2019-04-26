@@ -11,11 +11,6 @@ After removing the second node from the end, the linked list becomes 1->2->3->5.
  Note:
 If n is greater than the size of the list, remove the first node of the list.
 Try doing it using constant additional space.*/
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Programming.LinkedLists
 {
