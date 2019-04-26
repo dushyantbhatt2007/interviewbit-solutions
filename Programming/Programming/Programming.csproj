@@ -61,6 +61,7 @@
     <Compile Include="Tree\PreOrder.cs" />
     <Compile Include="Tree\RootToLeafPathWithSum.cs" />
     <Compile Include="Tree\SumRootToLeafNumbers.cs" />
+    <Compile Include="Tree\VerticalOrderTraversalOfBinaryTree.cs" />
     <Compile Include="Tree\ZigZagLevelOrderTraversal.cs" />
   </ItemGroup>
   <ItemGroup>
