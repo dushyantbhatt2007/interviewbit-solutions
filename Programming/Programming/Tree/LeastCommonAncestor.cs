@@ -60,7 +60,7 @@ namespace Programming.Tree
             }
             return false;
         }
-        public static void Main(string[] args)
+        /*public static void Main(string[] args)
         {
             LeastCommonAncestor m = new LeastCommonAncestor();
             TreeNode A = new TreeNode(3);
@@ -71,6 +71,6 @@ namespace Programming.Tree
             A.right.left = new TreeNode(0);
             A.right.right = new TreeNode(8);
             var result = m.Lca(A, 6, 2);
-        }
+        }*/
     }
 }
