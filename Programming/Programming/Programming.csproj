@@ -52,6 +52,7 @@
     <Compile Include="Array\NumberOccurringOddTimes.cs" />
     <Compile Include="Array\PeakElementInArray.cs" />
     <Compile Include="Array\ReplaceElementWithGreatestElementRightSide.cs" />
+    <Compile Include="Array\StrictlyIncreasingSubArray.cs" />
     <Compile Include="Array\UnionAndIntersectionOfTwoSortedArray.cs" />
     <Compile Include="Graph\AdjacencyList.cs" />
     <Compile Include="Graph\BFS.cs" />
