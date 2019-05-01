@@ -48,6 +48,7 @@
     <Compile Include="Array\LeadersInArray.cs" />
     <Compile Include="Array\MajorityElement.cs" />
     <Compile Include="Array\MinDistanceBetweenTwoNumbers.cs" />
+    <Compile Include="Array\NumberOccurringOddTimes.cs" />
     <Compile Include="Array\UnionAndIntersectionOfTwoSortedArray.cs" />
     <Compile Include="Graph\AdjacencyList.cs" />
     <Compile Include="Graph\BFS.cs" />
