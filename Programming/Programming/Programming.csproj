@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Array\LargestSpanWithSameSumTwoArray.cs" />
+    <Compile Include="Array\UnionAndIntersectionOfTwoSortedArray.cs" />
     <Compile Include="Graph\AdjacencyList.cs" />
     <Compile Include="Graph\BFS.cs" />
     <Compile Include="Graph\CommutableIslands.cs" />
