@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Array\FindMissingNumberInArray.cs" />
+    <Compile Include="Array\FixedPointInArray.cs" />
     <Compile Include="Array\LargestSpanWithSameSumTwoArray.cs" />
     <Compile Include="Array\LeadersInArray.cs" />
     <Compile Include="Array\MajorityElement.cs" />
