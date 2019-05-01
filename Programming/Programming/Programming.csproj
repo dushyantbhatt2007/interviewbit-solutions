@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Array\FindMissingNumberInArray.cs" />
     <Compile Include="Array\LargestSpanWithSameSumTwoArray.cs" />
     <Compile Include="Array\UnionAndIntersectionOfTwoSortedArray.cs" />
     <Compile Include="Graph\AdjacencyList.cs" />
