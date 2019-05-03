@@ -53,6 +53,7 @@
     <Compile Include="Array\PeakElementInArray.cs" />
     <Compile Include="Array\PythagoreanTripletInAnArray.cs" />
     <Compile Include="Array\ReplaceElementWithGreatestElementRightSide.cs" />
+    <Compile Include="Array\Segregate0sAnd1sInArray.cs" />
     <Compile Include="Array\StrictlyIncreasingSubArray.cs" />
     <Compile Include="Array\UnionAndIntersectionOfTwoSortedArray.cs" />
     <Compile Include="Graph\AdjacencyList.cs" />
