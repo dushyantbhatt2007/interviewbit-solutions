@@ -50,6 +50,7 @@
     <Compile Include="Array\MajorityElement.cs" />
     <Compile Include="Array\MinDistanceBetweenTwoNumbers.cs" />
     <Compile Include="Array\NumberOccurringOddTimes.cs" />
+    <Compile Include="Array\PairInArrayWithSumX.cs" />
     <Compile Include="Array\PeakElementInArray.cs" />
     <Compile Include="Array\PythagoreanTripletInAnArray.cs" />
     <Compile Include="Array\ReplaceElementWithGreatestElementRightSide.cs" />
