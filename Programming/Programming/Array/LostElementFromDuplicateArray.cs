@@ -19,6 +19,7 @@ namespace Programming.Array
 {
     public class LostElementFromDuplicateArray
     {
+
         public int FindLostElement(int[] a, int[] b, int n)
         {
             if (n == 1)
@@ -40,6 +41,16 @@ namespace Programming.Array
             }
             return a[high];
         }
+        public int FindLostElement1(int[] a, int[] b)
+        {
+            int res = 0;
+            for (int i = 0; i < a.Length; i++)
+                res = res ^ a[i];
+            for (int i = 0; i < b.Length; i++)
+                res = res ^ b[i];
+
+            return res;
+        }
         /*public static void Main(string[] args)
         {
             LostElementFromDuplicateArray obj = new LostElementFromDuplicateArray();
@@ -50,6 +61,8 @@ namespace Programming.Array
                 result = obj.FindLostElement(a, b, a.Length);
             else
                 result = obj.FindLostElement(b, a, b.Length);
+
+            result = obj.FindLostElement1(a, b);
         }*/
     }
 }
