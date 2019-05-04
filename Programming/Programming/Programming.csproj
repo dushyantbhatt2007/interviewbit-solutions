@@ -51,6 +51,7 @@
     <Compile Include="Array\LeadersInArray.cs" />
     <Compile Include="Array\LostElementFromDuplicateArray.cs" />
     <Compile Include="Array\MajorityElement.cs" />
+    <Compile Include="Array\MaxLengthOfBitonicArray.cs" />
     <Compile Include="Array\MinDiffBetweenTwoElements.cs" />
     <Compile Include="Array\MinDistanceBetweenTwoNumbers.cs" />
     <Compile Include="Array\MissingElementsFrom0To99.cs" />
