@@ -97,6 +97,7 @@
     <Compile Include="Tree\MaxDepthOfBinaryTree.cs" />
     <Compile Include="Tree\MinDepthOfBinaryTree.cs" />
     <Compile Include="Tree\PathSum.cs" />
+    <Compile Include="Tree\PopulateNextRightPointersTree.cs" />
     <Compile Include="Tree\PostOrder.cs" />
     <Compile Include="Tree\PreOrder.cs" />
     <Compile Include="Tree\RootToLeafPathWithSum.cs" />
