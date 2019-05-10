@@ -90,6 +90,7 @@
     <Compile Include="Stacks and Queues\RedundantBraces.cs" />
     <Compile Include="Stacks and Queues\SlidingWindowMaximum.cs" />
     <Compile Include="String\FirstNonRepeatingCharacter.cs" />
+    <Compile Include="Tree\BalancedBinaryTree.cs" />
     <Compile Include="Tree\BinaryTreeFromInorderAndPostorder.cs" />
     <Compile Include="Tree\FlattenBinaryTreeToLinkedList.cs" />
     <Compile Include="Tree\InOrder.cs" />
