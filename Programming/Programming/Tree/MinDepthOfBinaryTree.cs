@@ -55,7 +55,7 @@ namespace Programming.Tree
             }
             return result;
         }
-        public static void Main(string[] args)
+        /*public static void Main(string[] args)
         {
             MinDepthOfBinaryTree m = new MinDepthOfBinaryTree();
             TreeNode A = new TreeNode(5);
@@ -63,6 +63,6 @@ namespace Programming.Tree
             A.right = new TreeNode(6);
             A.left.left = new TreeNode(1);
             var result = m.MinDepth(A);
-        }
+        }*/
     }
 }
