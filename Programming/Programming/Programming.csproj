@@ -75,6 +75,7 @@
     <Compile Include="Graph\Smallest Sequence With Given Primes.cs" />
     <Compile Include="Graph\SortedDictionaryOfAlienLanguage.cs" />
     <Compile Include="Graph\TopologicalSorting.cs" />
+    <Compile Include="Graph\TwoNodesOntheSamePathofTree.cs" />
     <Compile Include="Graph\WordLadder.cs" />
     <Compile Include="Heaps and Maps\MaxHeap.cs" />
     <Compile Include="Heaps and Maps\MinHeap.cs" />
