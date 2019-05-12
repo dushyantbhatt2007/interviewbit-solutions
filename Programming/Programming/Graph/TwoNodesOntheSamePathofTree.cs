@@ -40,8 +40,8 @@ namespace Programming.Graph
         {
             return ((InTime[u] < InTime[v] && OutTime[u] > OutTime[v]) || (InTime[v] < InTime[u] && OutTime[v] > OutTime[u]));
         }
-        public static void Main(string[] args)
-        /*{
+        /*public static void Main(string[] args)
+        {
             int n = 8;
             Graph g = new Graph(n);
             g.addEdge(1, 2, 0);
