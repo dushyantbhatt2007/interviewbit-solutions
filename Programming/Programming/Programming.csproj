@@ -69,6 +69,7 @@
     <Compile Include="Graph\BFS.cs" />
     <Compile Include="Graph\CommutableIslands.cs" />
     <Compile Include="Graph\DetectCycleInDirectedGraph.cs" />
+    <Compile Include="Graph\DetectCycleInUnDirectedGraph.cs" />
     <Compile Include="Graph\Dijkstra.cs" />
     <Compile Include="Graph\LevelOrderGraph.cs" />
     <Compile Include="Graph\DFS.cs" />
