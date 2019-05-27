@@ -35,7 +35,7 @@ namespace Programming.Graph
             }
             return false;
         }
-        public static void Main(string[] args)
+        /*public static void Main(string[] args)
         {
             Graph g = new Graph(4);
             g.IsDirected = true;
@@ -48,6 +48,6 @@ namespace Programming.Graph
             PathBetweenTwoVerticesInDirectedGraph obj = new PathBetweenTwoVerticesInDirectedGraph();
             Console.WriteLine(obj.IsReachable(g, 1, 3, 4));
             Console.WriteLine(obj.IsReachable(g, 3, 1, 4));
-        }
+        }*/
     }
 }
