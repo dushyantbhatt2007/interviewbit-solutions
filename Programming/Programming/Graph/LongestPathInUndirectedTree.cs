@@ -39,7 +39,7 @@ namespace Programming.Graph
             }
             return result;
         }
-        public static void Main(string[] args)
+        /*public static void Main(string[] args)
         {
             List<int> input = new List<int>();
             input.Add(-1);
@@ -55,6 +55,6 @@ namespace Programming.Graph
             }
             LongestPathInUndirectedTree obj = new LongestPathInUndirectedTree();
             var result = obj.LongestPath(g, 5);
-        }
+        }*/
     }
 }
